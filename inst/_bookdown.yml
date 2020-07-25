@@ -3,4 +3,5 @@ language:
   ui:
     chapter_name: "Chapter "
 delete_merged_file: true
+input_dir: "inst"
 output_dir: "docs"
